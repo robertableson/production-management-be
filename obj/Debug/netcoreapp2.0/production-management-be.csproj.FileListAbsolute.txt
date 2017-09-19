@@ -1,0 +1,10 @@
+d:\Dropbox\DEV\production-management-be\bin\Debug\netcoreapp2.0\production-management-be.deps.json
+d:\Dropbox\DEV\production-management-be\bin\Debug\netcoreapp2.0\production-management-be.runtimeconfig.json
+d:\Dropbox\DEV\production-management-be\bin\Debug\netcoreapp2.0\production-management-be.runtimeconfig.dev.json
+d:\Dropbox\DEV\production-management-be\bin\Debug\netcoreapp2.0\production-management-be.dll
+d:\Dropbox\DEV\production-management-be\bin\Debug\netcoreapp2.0\production-management-be.pdb
+d:\Dropbox\DEV\production-management-be\obj\Debug\netcoreapp2.0\production-management-be.csproj.CoreCompileInputs.cache
+d:\Dropbox\DEV\production-management-be\obj\Debug\netcoreapp2.0\production-management-be.AssemblyInfoInputs.cache
+d:\Dropbox\DEV\production-management-be\obj\Debug\netcoreapp2.0\production-management-be.AssemblyInfo.cs
+d:\Dropbox\DEV\production-management-be\obj\Debug\netcoreapp2.0\production-management-be.dll
+d:\Dropbox\DEV\production-management-be\obj\Debug\netcoreapp2.0\production-management-be.pdb
